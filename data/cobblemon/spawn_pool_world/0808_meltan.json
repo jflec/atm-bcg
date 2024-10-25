@@ -10,7 +10,7 @@
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "10-31",
-      "weight": 2.0,
+      "weight": 3.0,
       "condition": {
         "canSeeSky": false,
         "biomes": ["#cobblemon:is_deep_dark"]

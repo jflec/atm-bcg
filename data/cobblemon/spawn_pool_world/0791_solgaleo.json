@@ -9,12 +9,24 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.5,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_badlands", "#cobblemon:is_savanna"],
         "timeRange": "morning"
+      }
+    },
+    {
+      "id": "solgaleo-2",
+      "pokemon": "solgaleo",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.0,
+      "condition": {
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

@@ -15,6 +15,18 @@
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_mushroom"]
       }
+    },
+    {
+      "id": "foongus-2",
+      "pokemon": "foongus",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "15-20",
+      "weight": 4.8,
+      "condition": {
+        "biomes": ["incendium:toxic_heap"]
+      }
     }
   ]
 }

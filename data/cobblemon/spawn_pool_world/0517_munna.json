@@ -16,6 +16,18 @@
         "biomes": ["#cobblemon:is_overworld"],
         "neededNearbyBlocks": ["minecraft:white_bed"]
       }
+    },
+    {
+      "id": "munna-2",
+      "pokemon": "munna",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "10-25",
+      "weight": 3.0,
+      "condition": {
+        "biomes": ["#minecraft:is_end"]
+      }
     }
   ]
 }

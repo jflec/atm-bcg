@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -10,7 +10,7 @@
       "context": "grounded",
       "bucket": "common",
       "level": "15-36",
-      "weight": 20.0,
+      "weight": 2.0,
       "condition": {
         "canSeeSky": false,
         "minHeight": 2,
@@ -25,10 +25,23 @@
       "context": "grounded",
       "bucket": "rare",
       "level": "15-36",
-      "weight": 10.0,
+      "weight": 2.0,
       "condition": {
         "timeRange": "night",
         "biomes": ["#cobblemon:is_overworld"]
+      }
+    },
+    {
+      "id": "shuppet-3",
+      "pokemon": "shuppet",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "15-36",
+      "weight": 1.0,
+      "condition": {
+        "biomes": ["#minecraft:is_nether"]
       }
     }
   ]

@@ -15,6 +15,18 @@
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_arid"]
       }
+    },
+    {
+      "id": "capsakid-2",
+      "pokemon": "capsakid",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "4-25",
+      "weight": 6,
+      "condition": {
+        "biomes": ["#minecraft:is_nether"]
+      }
     }
   ]
 }

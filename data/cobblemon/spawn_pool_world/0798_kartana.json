@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -10,8 +10,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "55-70",
-      "weight": 1.0,
+      "level": "50-70",
+      "weight": 3.0,
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_bamboo"]

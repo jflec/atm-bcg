@@ -11,7 +11,7 @@
     },
     {
       "aspects": ["shiny"],
-      "texture": "cobblemon:textures/pokemon/purrloin/0509_purrloin_shiny.png"
+      "texture": "cobblemon:textures/pokemon/0509_purrloin/purrloin_shiny.png"
     }
   ]
 }

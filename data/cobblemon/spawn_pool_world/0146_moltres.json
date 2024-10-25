@@ -10,8 +10,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_badlands"],
@@ -25,8 +25,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_floral"]

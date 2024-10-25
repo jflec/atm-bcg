@@ -10,10 +10,22 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "55-60",
-      "weight": 0.1,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#minecraft:is_end"]
+      }
+    },
+    {
+      "id": "giratina-2",
+      "pokemon": "giratina",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.0,
+      "condition": {
+        "biomes": ["#minecraft:is_nether"]
       }
     }
   ]

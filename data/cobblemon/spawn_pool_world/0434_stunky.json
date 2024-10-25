@@ -10,7 +10,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "1-35",
+      "level": "8-35",
       "weight": 8.0,
       "weightMultiplier": {
         "multiplier": 1.5,
@@ -21,6 +21,18 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_swamp"]
+      }
+    },
+    {
+      "id": "stunky-2",
+      "pokemon": "stunky",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "8-35",
+      "weight": 8.0,
+      "condition": {
+        "biomes": ["incendium:toxic_heap"]
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -9,8 +9,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "48-80",
-      "weight": 11.0,
+      "level": "50-70",
+      "weight": 3.0,
       "condition": {
         "biomes": ["#cobblemon:is_dripstone"]
       }

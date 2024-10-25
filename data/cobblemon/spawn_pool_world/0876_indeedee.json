@@ -1,10 +1,10 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "indeedee",
+      "id": "indeedee-1",
       "pokemon": "indeedee",
       "presets": ["natural"],
       "type": "pokemon",
@@ -15,6 +15,20 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_magical"]
+      }
+    },
+    {
+      "id": "indeedee-2",
+      "pokemon": "indeedee",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "28-46",
+      "weight": 1.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

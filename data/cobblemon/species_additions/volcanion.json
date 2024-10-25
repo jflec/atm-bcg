@@ -1,7 +1,7 @@
 {
   "implemented": true,
   "target": "cobblemon:volcanion",
-  "enabled": "true",
+  "enabled": true,
   "baseScale": 1,
   "hitbox": {
     "width": 3.8,

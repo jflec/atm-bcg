@@ -17,6 +17,19 @@
         "biomes": ["#cobblemon:is_magical"],
         "timeRange": "night"
       }
+    },
+    {
+      "id": "greavard-2",
+      "pokemon": "greavard",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "3-33",
+      "weight": 10,
+      "condition": {
+        "biomes": ["#minecraft:is_nether"]
+      }
     }
   ]
 }

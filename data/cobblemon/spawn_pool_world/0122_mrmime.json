@@ -52,7 +52,21 @@
       }
     },
     {
-      "id": "mrmime-galarian-4",
+      "id": "mrmime-4",
+      "pokemon": "mrmime",
+      "presets": ["mansion"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "26-46",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": false,
+        "biomes": ["#minecraft:is_end"]
+      }
+    },
+    {
+      "id": "mrmime-galarian-5",
       "pokemon": "mrmime galarian",
       "presets": ["village"],
       "type": "pokemon",
@@ -66,7 +80,7 @@
       }
     },
     {
-      "id": "mrmime-galarian-5",
+      "id": "mrmime-galarian-6",
       "pokemon": "mrmime galarian",
       "presets": ["natural"],
       "type": "pokemon",

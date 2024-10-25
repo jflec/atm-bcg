@@ -4,7 +4,7 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "marowak-alolan",
+      "id": "marowak-alolan-1",
       "pokemon": "marowak alolan=true",
       "type": "pokemon",
       "context": "grounded",
@@ -14,6 +14,19 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_beach"]
+      }
+    },
+    {
+      "id": "marowak-alolan-2",
+      "pokemon": "marowak alolan=true",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "15-32",
+      "weight": 4.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

@@ -10,8 +10,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": [
           "#cobblemon:is_nether_basalt",
@@ -26,8 +26,8 @@
       "type": "pokemon",
       "context": "surface",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#minecraft:is_nether", "#cobblemon:is_volcanic"]
       }
@@ -39,8 +39,8 @@
       "type": "pokemon",
       "context": "surface",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#cobblemon:is_overworld"]
       },
@@ -55,8 +55,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#cobblemon:is_volcanic"],
         "neededNearbyBlocks": ["minecraft:lava"]

@@ -10,7 +10,7 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "common",
-      "level": "1-35",
+      "level": "8-35",
       "weight": 8.0,
       "weightMultiplier": {
         "multiplier": 1.5,

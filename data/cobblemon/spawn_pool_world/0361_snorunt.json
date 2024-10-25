@@ -11,7 +11,7 @@
       "context": "grounded",
       "bucket": "uncommon",
       "level": "8-25",
-      "weight": 8.0,
+      "weight": 3.0,
       "condition": {
         "biomes": ["#cobblemon:is_cold"]
       }
@@ -24,7 +24,7 @@
       "context": "grounded",
       "bucket": "rare",
       "level": "10-32",
-      "weight": 8.0,
+      "weight": 3.0,
       "condition": {
         "biomes": ["#cobblemon:is_cold"]
       }
@@ -37,7 +37,7 @@
       "context": "grounded",
       "bucket": "common",
       "level": "4-25",
-      "weight": 4.0,
+      "weight": 2.0,
       "condition": {
         "biomes": ["#cobblemon:is_freezing"]
       }
@@ -50,7 +50,7 @@
       "context": "grounded",
       "bucket": "rare",
       "level": "15-43",
-      "weight": 6.0,
+      "weight": 2.0,
       "condition": {
         "biomes": ["#cobblemon:is_freezing"]
       }

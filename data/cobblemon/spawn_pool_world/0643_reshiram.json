@@ -10,12 +10,24 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70-100",
-      "weight": 2,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "isRaining": false,
         "biomes": ["#cobblemon:is_mountain"],
         "timeRange": "day"
+      }
+    },
+    {
+      "id": "reshiram-2",
+      "pokemon": "reshiram",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 1.0,
+      "condition": {
+        "biomes": ["#minecraft:is_nether"]
       }
     }
   ]

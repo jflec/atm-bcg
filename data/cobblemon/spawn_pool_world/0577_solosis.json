@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -16,6 +16,18 @@
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_magical"],
         "timeRange": "day"
+      }
+    },
+    {
+      "id": "solosis-2",
+      "pokemon": "solosis",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "5-35",
+      "weight": 9.0,
+      "condition": {
+        "biomes": ["incendium:toxic_heap"]
       }
     }
   ]

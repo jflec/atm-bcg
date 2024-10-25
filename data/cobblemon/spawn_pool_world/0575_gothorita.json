@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -15,6 +15,19 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_spooky"]
+      }
+    },
+    {
+      "id": "gothorita-2",
+      "pokemon": "gothorita",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "32-46",
+      "weight": 3.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

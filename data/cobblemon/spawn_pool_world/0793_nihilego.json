@@ -9,10 +9,22 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "55-65",
-      "weight": 5,
+      "level": "50-70",
+      "weight": 3.0,
       "condition": {
         "biomes": ["#cobblemon:is_swamp"]
+      }
+    },
+    {
+      "id": "nihilego-2",
+      "pokemon": "nihilego",
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "ultra-rare",
+      "level": "50-70",
+      "weight": 3.0,
+      "condition": {
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

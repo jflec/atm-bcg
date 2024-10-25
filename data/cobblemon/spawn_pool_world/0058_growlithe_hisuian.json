@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -15,6 +15,20 @@
       "condition": {
         "canSeeSky": true,
         "biomes": ["#cobblemon:is_peak"]
+      }
+    },
+    {
+      "id": "growlithe-3",
+      "pokemon": "growlithe hisuian",
+      "presets": ["natural"],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "14-37",
+      "weight": 4.0,
+      "condition": {
+        "canSeeSky": true,
+        "biomes": ["#minecraft:is_nether"]
       }
     }
   ]

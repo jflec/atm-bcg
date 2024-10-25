@@ -9,8 +9,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "50-55",
-      "weight": 0.05,
+      "level": "50-70",
+      "weight": 3.0,
       "condition": {
         "biomes": ["#cobblemon:is_savanna"],
         "timeRange": "morning",

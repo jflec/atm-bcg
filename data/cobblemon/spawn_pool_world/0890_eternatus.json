@@ -11,9 +11,9 @@
       "context": "grounded",
       "bucket": "ultra-rare",
       "level": "70-100",
-      "weight": 0.01,
+      "weight": 1.0,
       "condition": {
-        "biomes": ["#cobblemon:is_end"]
+        "biomes": ["#minecraft:is_end"]
       }
     }
   ]

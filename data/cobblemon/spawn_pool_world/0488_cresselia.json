@@ -1,5 +1,5 @@
 {
-  "enabled": "true",
+  "enabled": true,
   "neededInstalledMods": [],
   "neededUninstalledMods": [],
   "spawns": [
@@ -10,8 +10,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#cobblemon:is_plains"],
         "moonPhase": 4
@@ -24,8 +24,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "70",
-      "weight": 0.01,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#cobblemon:is_plains"],
         "moonPhase": 6

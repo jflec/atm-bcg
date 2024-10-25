@@ -9,8 +9,8 @@
       "type": "pokemon",
       "context": "grounded",
       "bucket": "ultra-rare",
-      "level": "60-80",
-      "weight": 5.0,
+      "level": "50-70",
+      "weight": 1.0,
       "condition": {
         "biomes": ["#cobblemon:is_lush"]
       }
