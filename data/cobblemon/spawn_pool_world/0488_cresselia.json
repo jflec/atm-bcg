@@ -4,8 +4,8 @@
   "neededUninstalledMods": [],
   "spawns": [
     {
-      "id": "darkrai",
-      "pokemon": "darkrai",
+      "id": "cresselia",
+      "pokemon": "cresselia",
       "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
@@ -18,8 +18,8 @@
       }
     },
     {
-      "id": "darkrai",
-      "pokemon": "darkrai",
+      "id": "cresselia",
+      "pokemon": "cresselia",
       "presets": ["natural", "wild"],
       "type": "pokemon",
       "context": "grounded",
