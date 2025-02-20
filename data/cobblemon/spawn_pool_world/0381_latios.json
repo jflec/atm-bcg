@@ -1,0 +1,38 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "latios-1",
+            "pokemon": "latios",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "50-60",
+            "weight": 0.5,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:meadow",
+                    "minecraft:stony_peaks",
+                    "minecraft:beach",
+                    "terralith:alpha_islands",
+                    "terralith:basalt_cliffs",
+                    "terralith:blooming_plateau",
+                    "terralith:blooming_valley",
+                    "terralith:granite_cliffs",
+                    "terralith:haze_mountain",
+                    "terralith:mirage_isles",
+                    "terralith:rocky_mountains",
+                    "terralith:skylands",
+                    "terralith:skylands_spring",
+                    "terralith:white_cliffs"
+                ]
+            }
+        }
+    ]
+}

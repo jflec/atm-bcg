@@ -1,0 +1,87 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "stakataka-1",
+            "pokemon": "stakataka",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-65",
+            "weight": 1.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "minecraft:plains",
+                    "minecraft:desert",
+                    "minecraft:savanna",
+                    "minecraft:badlands",
+                    "minecraft:deep_dark",
+                    "terralith:savanna_badlands",
+                    "terralith:warped_mesa",
+                    "terralith:white_mesa"
+                 ],
+                 "neededNearbyBlocks": [
+                    "minecraft:bricks",
+                    "minecraft:chiseled_nether_bricks",
+                    "minecraft:chiseled_stone_bricks",
+                    "minecraft:cracked_nether_bricks",
+                    "minecraft:cracked_polished_blackstone_bricks",
+                    "minecraft:cracked_stone_bricks",
+                    "minecraft:end_stone_bricks",
+                    "minecraft:mossy_stone_bricks",
+                    "minecraft:nether_bricks",
+                    "minecraft:polished_blackstone_bricks",
+                    "minecraft:quartz_bricks",
+                    "minecraft:stone_bricks",
+                    "minecraft:red_nether_bricks",
+                    "minecraft:mud_bricks"
+                 ]
+            }
+        },
+        {
+            "id": "stakataka-2",
+            "pokemon": "stakataka",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "55-65",
+            "weight": 1.0,
+            "condition": {
+                "canSeeSky": false,
+                "biomes": [
+                    "minecraft:deep_dark",
+                    "minecraft:soul_sand_valley",
+                    "incendium:ash_barrens",
+                    "nullscape:crystal_peaks",
+                    "nullscape:shadowlands",
+                    "nullscape:void_barrens"
+                 ],
+                 "neededNearbyBlocks": [
+                    "minecraft:bricks",
+                    "minecraft:chiseled_nether_bricks",
+                    "minecraft:chiseled_stone_bricks",
+                    "minecraft:cracked_nether_bricks",
+                    "minecraft:cracked_polished_blackstone_bricks",
+                    "minecraft:cracked_stone_bricks",
+                    "minecraft:end_stone_bricks",
+                    "minecraft:mossy_stone_bricks",
+                    "minecraft:nether_bricks",
+                    "minecraft:polished_blackstone_bricks",
+                    "minecraft:quartz_bricks",
+                    "minecraft:stone_bricks",
+                    "minecraft:red_nether_bricks",
+                    "minecraft:mud_bricks"
+                 ]
+            }
+        }
+    ]
+}
